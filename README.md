@@ -1,4 +1,5 @@
 # tilos-archiver
+Ez a harmadik archiváló rendszer, amely a másik kettővel egyelőre párhuzamosan használatban van. 
 
 ## version 1.3.3
 - ssh port changed
